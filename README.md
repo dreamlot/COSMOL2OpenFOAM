@@ -7,3 +7,5 @@ Tested on OpenFOAM 4.1. Should also work on later versions.
 
 The head lines in COMSOL files are different. Three functions are made for v4.1, v5.2, and v.53, respectively. For newer versions of COMSOL, please compare the head lines and modify the readMphtxt53.m to generate the desired function for reading the files.
 
+If you find this program helpful, please cite the paper Wang, Ningyu, Maša Prodanović, and Hugh Daigle. "Nanopaint application for flow assurance with electromagnetic pig." Journal of Petroleum Science and Engineering 180 (2019): 320-329.
+
