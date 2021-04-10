@@ -9,3 +9,4 @@ The head lines in COMSOL files are different. Three functions are made for v4.1,
 
 If you find this program helpful, please cite the paper Wang, Ningyu, Maša Prodanović, and Hugh Daigle. "Nanopaint application for flow assurance with electromagnetic pig." Journal of Petroleum Science and Engineering 180 (2019): 320-329.
 
+To Octave users: 'parfor' is used to run for loops in parallel. It is not yet supported in Octave and needs to be replaced by the regular 'for'.
